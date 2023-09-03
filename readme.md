@@ -9,10 +9,16 @@
 - 🌱 I’m currently honing my coding skills.
 - 💼 Open to collaborate on exciting projects.
 - 📫 Reach me at mdtanvir7462@gmail.com.
-- Portfolio: [Visit my portfolio](https://example.com)
+- Portfolio: [Visit my portfolio](https://tanvir-protfolio.netlify.app/)
 
 <h3 align="left">My Recent Projects:</h3>
 <ul>
+  <li>
+    <strong>Scouts Pole (Group Project)</strong><br>
+    Live Demo: https://scouts-poll.vercel.app/<br>
+    GitHub Repo client & Server : https://github.com/UpalBarua/scouts-poll<br>
+   
+  </li>
   <li>
     <strong>Dance World</strong><br>
     Live Demo: https://dance-world-c2149.web.app/<br>
@@ -22,7 +28,7 @@
   </li>
  <li>
     <strong>ToyLand</strong><br>
-    Live Demo: https://toy-land-c50d6.web.app/<br>
+    Live Demo: https://toy-land12.netlify.app/<br>
     GitHub Repo client :https://github.com/MD-TANVIR7462/Toyland-Client-main<br>
     GitHub Repo server : https://github.com/MD-TANVIR7462/Toyland-server<br>
     Duration: 4 days
