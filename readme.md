@@ -20,6 +20,13 @@
    
   </li>
   <li>
+    <strong> Swift Mart </strong><br>
+    Live Demo: https://ecommerce-project-7462.web.app/<br>
+    GitHub Repo client : https://github.com/MD-TANVIR7462/Economic-project-client<br>
+    GitHub Repo server : https://github.com/MD-TANVIR7462/Ecommerce-project-server<br>
+    Duration: 40 days
+  </li>
+  <li>
     <strong>Dance World</strong><br>
     Live Demo: https://dance-world-c2149.web.app/<br>
     GitHub Repo client : https://github.com/MD-TANVIR7462/Dance--World-client<br>
