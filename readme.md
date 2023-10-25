@@ -9,7 +9,7 @@
 - 🌱 I’m currently honing my coding skills.
 - 💼 Open to collaborate on exciting projects.
 - 📫 Reach me at mdtanvir7462@gmail.com.
-- Portfolio: [Visit my portfolio](https://tanvir-protfolio.netlify.app/)
+- Portfolio: [Visit my portfolio](https://tanvirevan.netlify.app/)
 
 <h3 align="left">My Recent Projects:</h3>
 <ul>
