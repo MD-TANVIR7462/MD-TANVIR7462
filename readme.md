@@ -42,11 +42,12 @@ I am a Passionate Full Stack Developer ( MERN Stack 🌐). I love to exploring n
 
 ### 📈 GitHub Stats 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-TANVIR7462&theme=dark&show_icons=true" alt="MD-TANVIR7462's GitHub stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MD-TANVIR7462&theme=dark" alt="GitHub Streak" width="45%" />
-</div>
+[![MD-TANVIR7462's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-TANVIR7462&theme=dark&show_icons=true)](https://github.com/MD-TANVIR7462)
 
+
+### GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MD-TANVIR7462&theme=dark)](https://git.io/streak-stats)
 
 
 <br/>
