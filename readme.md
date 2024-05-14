@@ -3,8 +3,7 @@
   <a href="https://www.facebook.com/md.taijul.986/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height='18px' />
   </a>
-
-I am a Passionate Full Stack Developer ( MERN Stack 🌐). I love to exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+Hi there! I'm MD Tajul Islam Tanvir, and I've been learning to code for two years now. For the last six months, I've been working at SISCOTEK, where I've been getting better at making websites. I did some courses on Programming Hero to learn more about web development, and now I can make cool websites. I'm always trying to get better at what I do and learn new things. Let's chat and see how we can make something awesome together!🛠️.
 <br/>
 <br/>
 
