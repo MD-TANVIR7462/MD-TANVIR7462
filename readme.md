@@ -40,6 +40,24 @@ I am a Passionate Full Stack Developer ( MERN Stack 🌐). I love to exploring n
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <br>
 
+### 📈 GitHub Stats 
+
+[![MD-TANVIR7462's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-TANVIR7462&theme=dark&show_icons=true)](https://github.com/MD-TANVIR7462)
+
+### Pinned Repositories
+
+[![Pinned Repository: RepositoryName](https://github-readme-stats.vercel.app/api/pin/?username=MD-TANVIR7462&repo=RepositoryName&theme=jolly)](https://github.com/MD-TANVIR7462/RepositoryName)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TANVIR7462&hide=java,html,tex&title_color=1DA8C3&text_color=c9cacc&icon_color=1DA8C3&bg_color=0D1117&border_color=262B32&langs_count=3)](https://github.com/MD-TANVIR7462)
+
+### GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MD-TANVIR7462&theme=dark)](https://git.io/streak-stats)
+
+
+<br/>
 <br>
 
 ### 🛠️ My Projects
