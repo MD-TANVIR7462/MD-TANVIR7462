@@ -3,7 +3,7 @@
   <a href="https://www.facebook.com/md.taijul.986/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height='18px' />
   </a>
-Hi there! I'm MD Tajul Islam Tanvir, and I've been learning to code for two years now. For the last six months, I've been working at SISCOTEK, where I've been getting better at making websites. I did some courses on Programming Hero to learn more about web development, and now I can make cool websites. I'm always trying to get better at what I do and learn new things. Let's chat and see how we can make something awesome together!🛠️.
+Hi there! I'm MD Tajul Islam Tanvir, and I've been learning to code for three years now. For the last 1years, I've been working at SISCOTEK, where I've been getting better at making websites. I did some courses on Programming Hero to learn more about web development, and now I can make cool websites. I'm always trying to get better at what I do and learn new things. Let's chat and see how we can make something awesome together!🛠️.
 <br/>
 <br/>
 
@@ -11,7 +11,7 @@ Hi there! I'm MD Tajul Islam Tanvir, and I've been learning to code for two year
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **[SISCOTEK](https://siscotek.com/)** as Full Stack Developer.
+- 🔭 &nbsp; I’m currently working on **[SISCOTEK](https://siscotek.com/)** as Front End Developer.
 - 👀 &nbsp; I’m passionate about continuous learning and exploring new technologies.
 - 🌱 &nbsp; I’m currently honing my coding skills. 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MD-TANVIR7462?tab=repositories)
