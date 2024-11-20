@@ -32,7 +32,7 @@ Hi there! I'm MD Tajul Islam Tanvir, and I've been learning to code for three ye
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next js" height ="42px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*_bJ2z2NRfTncHAv5UjUxwA.jpeg"></a>
-<a href="https://nodejs.org" tarNext js_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="" target="_blank">  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="css3" height ="42px"/> </a>
 <a href="" target="_blank">  <img align="left" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="css3" height ="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
