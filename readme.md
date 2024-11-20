@@ -3,7 +3,7 @@
   <a href="https://www.facebook.com/md.taijul.986/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height='18px' />
   </a>
-Hi there! I'm MD Tajul Islam Tanvir, and I've been learning to code for three years now. For the last 1years, I've been working at SISCOTEK, where I've been getting better at making websites. I did some courses on Programming Hero to learn more about web development, and now I can make cool websites. I'm always trying to get better at what I do and learn new things. Let's chat and see how we can make something awesome together!🛠️.
+Hi there! I'm MD Tajul Islam Tanvir, and I've been learning to code for three years now. For the last 1.5years, I've been working at SISCOTEK, where I've been getting better at making websites. I did some courses on Programming Hero to learn more about web development, and now I can make cool websites. I'm always trying to get better at what I do and learn new things. Let's chat and see how we can make something awesome together!🛠️.
 <br/>
 <br/>
 
