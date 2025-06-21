@@ -47,9 +47,7 @@ Hi there! I'm MD Tajul Islam Tanvir, and I've been learning to code for three ye
 ### 👨🏻‍💻 Top Language 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TANVIR7462&title_color=1DA8C3&text_color=c9cacc&icon_color=1DA8C3&bg_color=0D1117&border_color=262B32&langs_count=3" />
 
-### 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MD-TANVIR7462&theme=dark)](https://git.io/streak-stats)
 
 
 <br/>
