@@ -54,7 +54,3 @@ Hi there! I'm MD Tajul Islam Tanvir, and I've been learning to code for three ye
 <br/>
 <br>
 
-### 🛠️ My Projects
-<a href="https://github.com/MD-TANVIR7462/Charitious_Client" target="_blank"> <img alt="artistify" src="./projects/Charitiaus.png" height="68" align="left"> </a>
-<a href="https://github.com/MD-TANVIR7462/Economic-project-client" target="_blank"> <img alt="sheetsdatabase" src="./projects/Swift_mart.png"  height="68" align="left"> </a>
-<a href="https://github.com/MD-TANVIR7462/SudsCart_client" target="_blank"> <img alt="readmeicons" src="./projects/Sudscart.png" height="68" align="left"> </a>
