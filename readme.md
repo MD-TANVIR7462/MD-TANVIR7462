@@ -1,7 +1,7 @@
 # 👋 Hey, I'm **MD. Tajul Islam Tanvir**
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" alt="Coding Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/MD-TANVIR7462/assets/main/mern-banner.png" alt="MERN Stack Developer Banner" width="80%" />
 </p>
 
 <a href='https://www.linkedin.com/in/md-tajul-islam-tanvir-531682278/' target="_blank">
