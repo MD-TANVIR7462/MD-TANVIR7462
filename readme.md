@@ -1,8 +1,11 @@
 # 👋 Hey, I'm **MD. Tajul Islam Tanvir**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MD-TANVIR7462/assets/main/mern-banner.png" alt="MERN Stack Developer Banner" width="80%" />
+  <img src="https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="Coding MERN Stack Banner" width="80%" />
 </p>
+
+<!-- Your social links and other content here -->
+
 
 <a href='https://www.linkedin.com/in/md-tajul-islam-tanvir-531682278/' target="_blank">
   <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="24px" />
