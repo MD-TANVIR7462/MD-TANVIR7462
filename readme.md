@@ -50,7 +50,6 @@ Hi there! I'm MD Tajul Islam Tanvir, and I've been learning to code for three ye
 ### 📈 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MD-TANVIR7462&theme=dark)](https://git.io/streak-stats)
-
 <br/>
 <br>
 
