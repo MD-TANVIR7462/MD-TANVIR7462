@@ -1,7 +1,7 @@
 # 👋 Hey, I'm **MD. Tajul Islam Tanvir**
 
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80](https://i.ibb.co/DP4DRtVx/Chat-GPT-Image-Jul-5-2025-11-27-41-AM.png)" alt="Coding MERN Stack Banner" width="80%" />
+  <img src="https://i.ibb.co/DP4DRtVx/Chat-GPT-Image-Jul-5-2025-11-27-41-AM.png" alt="Coding MERN Stack Banner" width="80%" />
 </p>
 
 <!-- Your social links and other content here -->
