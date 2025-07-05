@@ -15,24 +15,38 @@ Hi! I’m **Tanvir**, a passionate and detail-oriented **MERN Stack Developer** 
 
 ---
 
-## 🚀 My Tech Stack
+## 🔧 Tech Stack & Tools
 
-**Languages & Tools I Work With:**
+**Languages & Frameworks:**
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
+</p>
+
+**Backend & Databases:**
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" />
+  <img src="https://user-images.githubusercontent.com/674621/71187802-007f1200-2272-11ea-8c6f-2c6a14c4fdb0.png" height="40" title="Multer" />
+</p>
+
+**Dev Tools & UI/UX:**
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" height="40" title="Postman" />
+  <img src="https://img.icons8.com/fluency/48/000000/vercel.png" height="40" title="Vercel" />
 </p>
 
 ---
@@ -51,14 +65,34 @@ Hi! I’m **Tanvir**, a passionate and detail-oriented **MERN Stack Developer** 
 
 ## 🧠 Areas of Expertise
 
-- 🔹 Front-End: React.js, Next.js, Redux, Tailwind CSS, Figma to Code
+- 🔹 Front-End: Javascript, Typescript, React.js, Next.js, Redux, Tailwind CSS, Figma to Code
 - 🔹 Back-End: Node.js, Express.js, MongoDB, Firebase
 - 🔹 API Integration: RESTful APIs, Axios, Postman
-- 🔹 Tools & Workflow: Git, GitHub, VS Code, Vercel, Netlify, Chrome DevTools
+- 🔹 Tools & Workflow: Git, GitHub, VS Code, Vercel, Netlify, Multer, cloudinery & Chrome DevTools
 - 🔹 Collaboration: Agile Methodology, Clean Code Practices, Version Control
 
 ---
 
+## 🧠 What I Do
+
+- 🚀 Build responsive full-stack web applications using **MongoDB, Express, React, Node**
+- 🔐 Implement secure user authentication with **JWT**, **Firebase Auth**, and **OAuth**
+- 📁 Handle file uploads and storage using **Multer**, **Cloudinary**, and **Firebase Storage**
+- 🛠 Use **TypeScript** for building scalable and maintainable frontend & backend logic
+- 🧪 Integrate & test RESTful APIs using **Postman** and **Axios**
+- 📦 Work with external APIs (Stripe, EmailJS, etc.) for payment, email, and third-party services
+- 🧰 Write clean, optimized, and reusable code following **industry best practices**
+- 📊 Convert UI designs from **Figma** into pixel-perfect components
+
+---
+
+## 📚 Learning & Goals
+
+- 🔍 Currently deepening my knowledge in **Next.js 14**, **TypeScript Advanced Patterns**, and **Clean Architecture**
+- 🔄 Exploring **CI/CD pipelines**, **Docker**, and cloud deployment strategies
+- 🧩 Planning to contribute to open-source projects and join the developer community globally
+
+---
 ## 📫 Contact Me
 
 - 📧 Email: [mdtanvir7462@gmail.com](mailto:mdtanvir7462@gmail.com)
