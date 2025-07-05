@@ -3,6 +3,9 @@
 <a href='https://www.linkedin.com/in/md-tajul-islam-tanvir-531682278/' target="_blank">
   <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="24px" />
 </a>
+<a href='https://www.linkedin.com/in/md-tajul-islam-tanvir-531682278/' target="_blank">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="24px" />
+</a>
 <a href="https://www.facebook.com/md.taijul.986/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="24px" />
 </a>
