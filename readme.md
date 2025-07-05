@@ -1,12 +1,15 @@
 # 👋 Hey, I'm **MD. Tajul Islam Tanvir**
 
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" alt="Coding Banner" width="100%" style="border-radius: 10px;" />
+</p>
+
 <a href='https://www.linkedin.com/in/md-tajul-islam-tanvir-531682278/' target="_blank">
   <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="24px" />
 </a>
 <a href="https://www.facebook.com/md.taijul.986/" target="_blank">
   <img src="https://img.icons8.com/color/48/facebook-new.png" height="25" />
 </a>
-
 
 ---
 
