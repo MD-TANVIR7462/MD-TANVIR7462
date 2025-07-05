@@ -18,7 +18,7 @@ Hi! I’m **Tanvir**, a passionate and detail-oriented **MERN Stack Developer** 
 
 ## 🔧 Tech Stack & Tools
 
-**Languages & Frameworks:**
+### **Languages & Frameworks**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" alt="HTML5" />
@@ -27,26 +27,27 @@ Hi! I’m **Tanvir**, a passionate and detail-oriented **MERN Stack Developer** 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="35" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" height="35" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35" height="35" alt="Redux" />
 </p>
 
-**Backend & Databases:**
+### **Backend & Databases**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-multer-a-node-js-middleware-for-handling-multipart--form-data-logo-color-tal-revivo.png" height="35" title="Multer" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" height="35" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35" height="35" alt="Firebase" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-multer-a-node-js-middleware-for-handling-multipart--form-data-logo-color-tal-revivo.png" width="35" height="35" alt="Multer" />
 </p>
 
-**Dev Tools & UI/UX:**
+### **Dev Tools & UI/UX**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" height="35" title="Postman" />
-  <img src="https://img.icons8.com/fluency/48/000000/vercel.png" height="35" title="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35" alt="Figma" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="35" height="35" alt="Postman" />
+  <img src="https://img.icons8.com/fluency/48/000000/vercel.png" width="35" height="35" alt="Vercel" />
 </p>
 
 ---
