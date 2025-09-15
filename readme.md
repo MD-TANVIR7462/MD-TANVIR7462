@@ -18,7 +18,7 @@
 
 ## 💻 MERN Stack Developer | Problem Solver | Tech Enthusiast
 
-Hi! I’m **Tanvir**, a passionate and detail-oriented **MERN Stack Developer** from Bangladesh 🇧🇩 with 3+ years of experience in web development and 1.5+ years of professional experience at **[SISCOTEK](https://siscotek.com/)**. I love transforming complex problems into elegant, user-friendly solutions using the **MERN stack** and modern front-end technologies.
+Hi! I’m **Tanvir**, a passionate and detail-oriented **MERN Stack Developer** from Bangladesh 🇧🇩 with 3+ years of experience in web development and 2 years of professional experience at **[SISCOTEK](https://siscotek.com/)**. I love transforming complex problems into elegant, user-friendly solutions using the **MERN stack** and modern front-end technologies.
 
 ---
 
