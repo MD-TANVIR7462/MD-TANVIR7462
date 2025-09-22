@@ -66,7 +66,7 @@ Hi! I’m **Tanvir**, a passionate and detail-oriented **MERN Stack Developer** 
 - 🛠 Experienced with authentication, REST APIs, JWT, Firebase, and responsive UI/UX design
 - 🎓 Trained via **Programming Hero's Web Development Course**
 - 💼 Checkout my **[Portfolio](https://tanvir3.vercel.app/)** to see my work
-- 🧾 Download my **[Resume](https://drive.google.com/file/d/1f8eXEB7NzP9-uXosEdq_yUnbS49pBCjj/view?usp=drive_link)**
+- 🧾 Download my **[Resume](https://drive.google.com/file/d/1C1bFrDTp5Kol6GiRoUahySQ3YxbwmMVa/view?usp=drive_link)**
 
 ---
 
