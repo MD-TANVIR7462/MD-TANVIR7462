@@ -113,7 +113,6 @@ Hi! I’m **Tanvir**, a passionate and detail-oriented **MERN Stack Developer** 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MD-TANVIR7462&show_icons=true&theme=github_dark" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TANVIR7462&layout=compact&theme=github_dark&langs_count=6" height="150px"/>
 </div>
 
 ---
